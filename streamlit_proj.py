@@ -98,5 +98,5 @@ ch, _, sub = st.beta_columns(3)
 ch.checkbox(label = 'I agree', value = False)
 sub.button('Submit')
 
-st.video(data = '/Users/sreekanths/.Trash/NtPM24RGRMT_IqW2 10.41.50 PM.mp4') # can add youtube vids too
+#st.video(data = '/Users/sreekanths/.Trash/NtPM24RGRMT_IqW2 10.41.50 PM.mp4') # can add youtube vids too
 st.map()
